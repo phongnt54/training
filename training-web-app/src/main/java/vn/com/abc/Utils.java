@@ -22,4 +22,8 @@ public class Utils {
 		System.out.println("Add by devA");
 	}
 
+	public void methodSix() {
+		System.out.println("Add by devB");
+	}
+
 }
