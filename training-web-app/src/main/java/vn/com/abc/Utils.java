@@ -10,6 +10,10 @@ public class Utils {
 		System.out.println("Add by devB");
 	}
 
+	public void methodTwo() {
+		System.out.println("Add by devB");
+	}
+
 	public void methodFour() {
 		System.out.println("Add by devB");
 	}
