@@ -10,8 +10,8 @@ public class Utils {
 		System.out.println("Add by devB");
 	}
 
-	public void methodTwo() {
-		System.out.println("Add by devB");
+	public void methodThree() {
+		System.out.println("Add by devA");
 	}
 
 	public void methodFour() {
